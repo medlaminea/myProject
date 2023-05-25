@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: bisque;
+
 }
 
 code {
@@ -12,6 +14,10 @@ code {
     monospace;
 }
 /* Navbar */
+.navbar{
+  background-color: bisque !important;
+
+}
 .navbar-nav li a{
   font-size: 17px;
 }
